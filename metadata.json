@@ -1,0 +1,6 @@
+{
+  "name": "BeatStream",
+  "description": "An ad-free online YouTube music stream and offline download player utilizing Room database and native Android DownloadManager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
